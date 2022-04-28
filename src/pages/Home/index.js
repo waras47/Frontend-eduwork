@@ -54,7 +54,7 @@ export default function Home() {
                 <BounceLoader color="red" /> 
               </div>  */}
                 <div>
-                <Responsive desktop={3} items="stretch">
+                <Responsive desktop={2} items="stretch">
                   <div className="p-2" key={1}>
                     <CardProduct 
                       title={'Testing'} 
